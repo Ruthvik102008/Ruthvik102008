@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I’m Ruthvik
 
-<!--
-**Ruthvik102008/Ruthvik102008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend systems and tools for testing AI agents. I’m interested in making systems reproducible, inspecting how they behave, and verifying that they work.
 
-Here are some ideas to get you started:
+## Featured work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Sightline](https://github.com/linryan888/Sightline)
+A collaborative app that turns captured footage into daily video recaps.
+
+**My contributions**
+- Built the Docker setup for the FastAPI backend, including FFmpeg, local configuration, and health checks.
+- Integrated teammates’ database schema and video upload/retrieval endpoints into `main`.
+- Resolved dependency conflicts and verified the complete workflow against Supabase from a fresh clone.
+- Documented setup and API testing for teammates.
+
+**Technologies:** Python · FastAPI · Docker · PostgreSQL · Supabase
+
+[Docker pull request](https://github.com/linryan888/Sightline/pull/4)
+
+### Consequence Lab
+A collaborative project exploring AI agent behavior and evaluation.
+
+Contributed to experiment tooling, backend reliability, testing, and documentation.
+
+**Technologies:** TypeScript · React · Node.js · SQLite
+
+Private repository, Public updates will come soon, whenever possible.
+
+## Tools I work with
+
+Python, TypeScript, FastAPI, React, Node.js, Docker, PostgreSQL, Supabase, and Git.
