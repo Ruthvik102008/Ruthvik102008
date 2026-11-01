@@ -15,7 +15,6 @@ A collaborative app that turns captured footage into daily video recaps.
 
 **Technologies:** Python · FastAPI · Docker · PostgreSQL · Supabase
 
-[Docker pull request](https://github.com/linryan888/Sightline/pull/4)
 
 ### Consequence Lab
 A collaborative project exploring AI agent behavior and evaluation.
