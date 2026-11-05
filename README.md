@@ -16,14 +16,18 @@ A collaborative app that turns captured footage into daily video recaps.
 **Technologies:** Python · FastAPI · Docker · PostgreSQL · Supabase
 
 
-### Consequence Lab
-A collaborative project exploring AI agent behavior and evaluation.
+### [Pip’s Classroom](https://github.com/KrishayR/pipsclassroom)
+A collaborative AI experimentation platform where three Meta Muse agents practise 2048, receive teacher and peer feedback, and test lessons before saving them to separate notebooks.
 
-Contributed to experiment tooling, backend reliability, testing, and documentation.
+**My contributions**
+- Built and refined the classroom interface, including dark mode, learning-session progress, recorded decisions, and exportable run archives.
+- Parallelized independent exam games with up to six workers while keeping dependent learning cycles sequential.
+- Added recovery for transient API and file-saving failures, plus guarded start/stop controls.
+- Developed cloud experiment tooling and matched notebook-versus-empty evaluations to investigate whether saved lessons improve performance.
 
-**Technologies:** TypeScript · React · Node.js · SQLite
+**Technologies:** TypeScript · React · Node.js · SQLite · Meta Muse API · GitHub Actions
 
-Private repository, Public updates will come soon, whenever possible.
+[Explore the project and published studies →](https://github.com/KrishayR/pipsclassroom#what-we-found)
 
 ## Tools I work with
 
